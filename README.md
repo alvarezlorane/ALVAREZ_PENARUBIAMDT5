@@ -1,2 +1,5 @@
 # ALVAREZ_PENARUBIAMDT5
 SOFTWARE ENGINEERING PROJECT
+
+# Capstone Project
+Current Release Version: v1.0.1
